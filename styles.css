@@ -1,3 +1,26 @@
 body{
+    color: rgb(240, 248, 255);
     background-color: rgb(84, 142, 241); 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
+header{
+    background-color: rgb(40, 230, 230);
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+footer{
+    text-align: center;
+}
+.imagem{
+    text-align: center;}
+
+
+
+
+
+
+
+
+
